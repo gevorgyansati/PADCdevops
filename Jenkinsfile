@@ -1,6 +1,6 @@
 node {
     dir('Student') {
-        git branch: 'main', url: 'https://github.com/lessons2021/SatenGevorgyan.git'
+        git branch: 'main', url: 'https://github.com/gevorgyansati/PADCdevops.git'
     }
 }
 pipeline {
